@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	cl "github.com/hedgehogues/xxx"
+	cl "github.com/hedgehogues/awesome-api"
 	"github.com/sirupsen/logrus"
 )
 
