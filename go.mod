@@ -1,4 +1,4 @@
-module github.com/hedgehogues/awesome-api
+module github.com/hedgehogues/xxx
 
 go 1.15
 
