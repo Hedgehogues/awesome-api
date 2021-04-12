@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	cl "github.com/hedgehogues/awesome-api"
-	"github.com/hedgehogues/awesome-api/example/apis"
+	cl "github.com/hedgehogues/xxx"
+	"github.com/hedgehogues/xxx/example/apis"
 )
 
 func checkError(err error) {
